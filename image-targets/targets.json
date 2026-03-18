@@ -1,0 +1,30 @@
+[
+  {
+    "imagePath": "/image-targets/cat.png",
+    "name": "cat",
+    "type": "PLANAR",
+    "properties": {
+      "top": 0,
+      "left": 0,
+      "width": 480,
+      "height": 640,
+      "originalWidth": 480,
+      "originalHeight": 640,
+      "isRotated": false
+    }
+  },
+  {
+    "imagePath": "/image-targets/fire.png",
+    "name": "fire",
+    "type": "PLANAR",
+    "properties": {
+      "top": 0,
+      "left": 0,
+      "width": 480,
+      "height": 640,
+      "originalWidth": 480,
+      "originalHeight": 640,
+      "isRotated": false
+    }
+  }
+]
