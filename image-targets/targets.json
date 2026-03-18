@@ -1,6 +1,6 @@
 [
   {
-    "imagePath": "./image-targets/cat.png",
+    "imagePath": "image-targets/cat.png",
     "name": "cat",
     "type": "PLANAR",
     "properties": {
@@ -14,7 +14,7 @@
     }
   },
   {
-    "imagePath": "./image-targets/fire.png",
+    "imagePath": "image-targets/fire.png",
     "name": "fire",
     "type": "PLANAR",
     "properties": {
