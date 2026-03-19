@@ -26,5 +26,19 @@
       "originalHeight": 640,
       "isRotated": false
     }
+  },
+  {
+    "imagePath": "image-targets/water.png",
+    "name": "water",
+    "type": "PLANAR",
+    "properties": {
+      "top": 0,
+      "left": 0,
+      "width": 480,
+      "height": 640,
+      "originalWidth": 480,
+      "originalHeight": 640,
+      "isRotated": false
+    }
   }
 ]
